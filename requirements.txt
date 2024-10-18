@@ -1,0 +1,6 @@
+numpy   
+opencv-python  ## use opencv-python-headless if you are working in github codespace
+music21
+matplotlib
+
+notebook
