@@ -2,9 +2,12 @@ numpy
 pandas
 opencv-python  ## use `opencv-python-headless` if you are working in github codespace
 music21
+llvmlite # librosa depends on it
+numba    # librosa depends on it
 librosa
 pedalboard
 midi-player  ## For playing midi file in notebook
 matplotlib
+tqdm
 
 notebook
